@@ -74,7 +74,13 @@ if (/^(-h|--help)$/.test(args[0])) {
                   eg :- 'readfile -el utf8 file_name 21'
                 `);
   } // regex=  /[\w-@\.]{1,}\.\w{1,}$/
-} else if (args[0] === "-l" || (args[0] != "-l" && args.length === 1)) {
+} else if (
+  args[0] === "-l" ||
+  (args[0] != "-l" &&
+    args[0] != "--version" &&
+    args[0] != "-v" &&
+    args.length === 1)
+) {
   let index = 1;
   let flag = false;
   if (args[0] === "-l") {
