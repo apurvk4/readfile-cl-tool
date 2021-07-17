@@ -1,0 +1,14 @@
+{
+  "name": "readfile-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "readfile": "./bin/index.js"
+  },
+  "author": "apurv kumar",
+  "license": "MIT"
+}
