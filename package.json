@@ -1,7 +1,7 @@
 {
   "name": "readfile-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple zero dependency command-line text reader It works in powershell,cmd and in all linux terminals",
   "main": "index.js",
   "keywords": [
     "cli"
