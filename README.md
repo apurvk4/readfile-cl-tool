@@ -5,7 +5,7 @@
 ###### to install type
 
 ```bash
-npm install readfile
+npm install readfile-cl-tool
 ```
 
 ### To use this command line utility write this in terminal
