@@ -5,10 +5,10 @@
 ###### to install type
 
 ```bash
-npm install readfile-cli
+npm install readfile
 ```
 
-### To use this cli tool write this in terminal
+### To use this command line utility write this in terminal
 
 ```bash
 readfile [options] <file_name> [min_LineLengthToRead]
