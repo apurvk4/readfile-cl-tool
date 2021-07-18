@@ -5,9 +5,9 @@
 ###### to install type
 
 ```bash
-npm install readfile-cl-tool
+npm install readfile-cl-tool -g
 ```
-
+Please install this globally otherwise it may not work.
 ### To use this command line utility write this in terminal
 
 ```bash
