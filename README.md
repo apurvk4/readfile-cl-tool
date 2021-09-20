@@ -17,8 +17,7 @@ readfile [options] <file_name> [min_LineLengthToRead]
 #### Or type `readfile --help` to get more information.
 ---------------
 #### About Me 
-I am pursuing a Bachelor's degree in Computer science Engineering(2019-23). I enjoy learning about new technology and applying them to real-world situations.
-I'm a problem solver at heart and always willing to learn new things.
+I am pursuing a Bachelor's degree in Computer science Engineering(2019-23). 
 
 ##### My Profiles 
 <a href="https://auth.geeksforgeeks.org/user/apurvkumarak/practice/"><img alt="HackerRank" src="https://img.shields.io/badge/geeksforgeeks-%230077B5.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
